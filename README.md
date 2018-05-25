@@ -1,2 +1,5 @@
 # Mall-Trolley-System
-This is an Embedded C program developed for 8051 Microcontroller which was to be installed in the system.
+Today whenever we visit a shopping mall we have to just take the items we want to purchase and put them into trolley even if we don’t know how much the total cost of the items is and when we reach the checkout we have to take out certain items to lower some unnecessary expenditure. With this new technology this will not be anymore an issue to worry about.
+This RFID based IOT module can be fitted in the trolley and whenever we will put an item in the trolley it will get the product details and will calculate the price automatically, add them and display the same on the LCD screen. This can be used at almost all major supermarkets and will be of great help in reducing the long queues at the checkout counters.
+The project consists of a RFID reader, 8052 microcontroller, test RFID cards, 7805 IC, buzzers, LED lights and a LCD panel. The microcontroller will be programmed using Embedded C language and KEIL software will be used for simulation of the microcontroller in the PC. 
+
